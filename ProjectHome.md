@@ -1,0 +1,1 @@
+Simple preforked xml-rpc server framework for python3, which is using build-in SimpleXMLRPC library.
